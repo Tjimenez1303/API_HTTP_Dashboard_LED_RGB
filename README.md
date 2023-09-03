@@ -195,7 +195,7 @@ Tomas Jimenez Alvarez - tjimenez@unal.edu.co
 
 Linkedin contact: [https://www.linkedin.com/in/tomas-jimenez-alvarez-7a7554249/](https://www.linkedin.com/in/tomas-jimenez-alvarez-7a7554249/)
 
-Project Link: [https://github.com/jsebgiraldo/ESP32-SMB-API/tree/main](https://github.com/jsebgiraldo/ESP32-SMB-API/tree/main)
+Project Link: [https://github.com/Tjimenez1303/API_HTTP_Dashboard_LED_RGB/edit/main](https://github.com/Tjimenez1303/API_HTTP_Dashboard_LED_RGB/edit/main)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
